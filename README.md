@@ -52,7 +52,7 @@ Run the Disease_Predictor.ipnyb file step by step.
 Train the model and generate predictions.
 
 
-🌟Use of Logistic Agression and Random Forest:
+🌟Use of Logistic Reagression and Random Forest:
 
 They are basically used to train our model in such a way that it coverts the dataset in a way that our model understands and trained.
 
